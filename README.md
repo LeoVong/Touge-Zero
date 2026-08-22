@@ -21,12 +21,12 @@
 </p>
 
 <p align="center">
-  <img src="docs/title.png" alt="Title screen" width="100%">
+  <img src="docs/title.png" alt="Title screen" width="50%">
   &nbsp;
 </p>
 
 <p align="center">
-  <img src="docs/kuzure.png" alt="Kuzurezaka cliffside downhill" width="100%">
+  <img src="docs/kuzure.png" alt="Kuzurezaka cliffside downhill" width="50%">
 </p>
 
 ---
