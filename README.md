@@ -23,7 +23,6 @@
 <p align="center">
   <img src="docs/title.png" alt="Title screen" width="48%">
   &nbsp;
-  <img src="docs/race.png" alt="Night race on Kamui Pass — brighter road, trees, and moonlight" width="48%">
 </p>
 
 <p align="center">
@@ -113,10 +112,6 @@ Language toggle on the title screen: **English / 中文**. Keyboard, gamepad, an
 | Camera | `C` | — | — |
 | Respawn | `R` | — | — |
 | Pause | `Esc` / `P` | Start | Pause |
-
-<p align="center">
-  <img src="docs/mobile.png" alt="Mobile touch controls" width="280">
-</p>
 
 ### Run locally
 
