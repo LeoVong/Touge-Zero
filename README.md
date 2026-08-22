@@ -23,7 +23,11 @@
 <p align="center">
   <img src="docs/title.png" alt="Title screen" width="48%">
   &nbsp;
-  <img src="docs/race.png" alt="Night race on Kamui Pass" width="48%">
+  <img src="docs/race.png" alt="Night race on Kamui Pass — brighter road, trees, and moonlight" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/kuzure.png" alt="Kuzurezaka cliffside downhill" width="920">
 </p>
 
 ---
