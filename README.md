@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="docs/title.png" alt="Title screen" width="50%">
+  <img src="docs/title.png" alt="Title screen" width="48%">
   &nbsp;
-  <img src="docs/kuzure.png" alt="Kuzurezaka cliffside downhill" width="50%">
+  <img src="docs/kuzure.png" alt="Kuzurezaka cliffside downhill" width="48%">
 </p>
 
 ---
