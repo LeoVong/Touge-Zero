@@ -132,10 +132,35 @@ No account. No server database. Best times live in `localStorage`.
 
 ### Stack
 
-- **React 19** + **TanStack Start** + **Tailwind v4**
-- **three.js** (WebGL) arcade car + spline mountain roads
-- **Zustand** + `localStorage` for settings and records
-- Web Audio engine note / tire screech (unlocks on first click)
+| Layer | Tech | Role |
+| --- | --- | --- |
+| **Frontend** | React 19, Tailwind v4, three.js, Zustand, Web Audio | UI, WebGL arcade car + spline roads, client state, engine / tire sound |
+| **Backend** | TanStack Start, Nitro | Serves the SPA |
+| **Database** | `localStorage` | Settings and best times (browser only — no server database) |
+
+```mermaid
+flowchart LR
+  subgraph Backend
+    B["TanStack Start + Nitro"]
+  end
+
+  subgraph Frontend
+    R["React 19 + Tailwind v4"]
+    G["three.js"]
+    A["Web Audio"]
+    Z["Zustand"]
+    R --- G
+    R --- A
+    R --- Z
+  end
+
+  subgraph Database
+    D["localStorage"]
+  end
+
+  B -->|"serves the SPA"| R
+  Z -->|"settings & best times"| D
+```
 
 ---
 
